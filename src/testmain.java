@@ -8,7 +8,7 @@ public class testmain {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.print("Hello, Java!Java!Java!Java!");
+		System.out.print("Hello, Java!Java!Java!Java!");									/* Ver. 010101 */
 
 	}
 
